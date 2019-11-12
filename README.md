@@ -2,4 +2,4 @@
 ## By Anosh.S
 - Deep learning image classification models
 - Leveraging pre-existing models 
-- Using transfer learning and retraining the later layers (prediction layers) to the particular use case i.e. Pneumonia Medical Diagnosis, applying the keras flow from directory implementation
+- Using transfer learning and retraining prediction layers to particular use cases i.e. Pneumonia Medical Diagnosis, applying the keras flow from directory implementation
